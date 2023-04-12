@@ -1,0 +1,82 @@
+body {
+    background-color: rgb(37, 37, 191);
+}
+h2 {
+    box-shadow: 5px 5px 5px black !important;
+    font-family: 'Courier New', Courier, monospace !important;
+    font-size: small !important;
+    font-weight: bolder !important;
+    color: bisque !important;
+    text-align: center !important;
+    padding: 20px !important;
+    background-color: rgb(43, 43, 191) !important;
+    border: solid black !important;
+}
+.navbar {
+    padding: 0 !important;
+}
+.navbar-nav li a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: bisque;
+    background-color: blue;
+}
+.dropdown-menu {
+    background-color: blue;
+    border: solid black;
+}
+header {
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 10px 10px 10px black;
+    font-size: xx-large;
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(48, 48, 209);
+    color: beige;
+    border: solid black;
+}
+.carousel-item img {
+    width: 800px;
+    height: 500px;
+    border: solid black;
+    margin: 10px 10px 10px 10px;
+}
+img {
+    border: solid black;
+}
+.carousel-inner {
+    height: 500px;
+    margin: auto;
+    background-color: black;
+}
+.row {
+    border: solid black;
+    padding: 30px;
+    background-color: blue;
+}
+.col {
+    background-color: rgb(11, 84, 99);
+    color: blueviolet;
+    padding: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.container {
+    background-color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    border: solid black;
+}
+.container-fluid {
+    background-color: blue;
+    border: solid black;
+}
+.footer {
+    border: solid black;
+    background-color: rgb(14, 14, 158);
+    color: blanchedalmond;
+    padding: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    width: 100%;
+    text-align: center;
+}

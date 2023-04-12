@@ -1,0 +1,79 @@
+body {
+    background-color: rgb(37, 37, 191);
+}
+.navbar-nav li a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    color: bisque;
+    background-color: blue;
+}
+.navbar {
+    padding: 0 !important;
+}
+.dropdown-menu {
+    border: solid black;
+}
+header {
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 10px 10px 10px black;
+    font-size: xx-large;
+    text-align: center;
+    padding: 30px;
+    background-color: rgb(48, 48, 209);
+    color: beige;
+    border: solid black;
+}
+.row {
+    border: solid black;
+    padding: 30px;
+    background-color: blue;
+}
+.col {
+    background-color: rgb(68, 68, 188); 
+    color: blanchedalmond;
+    margin: auto;
+    box-shadow: 20px 20px rgb(26, 26, 174); 
+    font-family: 'Times New Roman', Times, serif;
+}
+.container {
+    background-color: rgb(21, 21, 178);
+    font-family: 'Times New Roman', Times, serif;
+    border: solid black;
+}
+.container-fluid {
+    background-color: blue;
+    border: solid black;
+}
+img {
+    border: solid black;
+}
+form {
+    background-color: rgb(48, 48, 148); 
+    color: blanchedalmond;
+    padding: 20px 20px;
+    box-shadow: 10px 10px rgb(26, 26, 174); 
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: bold;
+}
+input[type="submit"] {
+    background-color: orange;
+    font-weight: bold;
+    color: white;
+}
+#email {
+    width: 270px;
+    background-color: black;
+    color: beige;
+}
+.footer {
+    border: solid black;
+    background-color: rgb(14, 14, 158);
+    color: blanchedalmond;
+    padding: 15px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-small;
+    width: 100%;
+    text-align: center;
+}
